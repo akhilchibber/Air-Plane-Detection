@@ -1,4 +1,4 @@
-# Deep learning based Air Plane Detection
+# Deep learning based Airplane Detection
 <p align="center">
   <img src="https://github.com/akhilchibber/Air-Plane-Detection/blob/main/Air-Plane.png?raw=true" alt="earthml Logo">
 </p>
