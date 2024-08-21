@@ -1,4 +1,4 @@
-# Deep learning based Airplane Detection
+# Deep Learning based Airplane Detection
 <p align="center">
   <img src="https://github.com/akhilchibber/Air-Plane-Detection/blob/main/Air-Plane.png?raw=true" alt="earthml Logo">
 </p>
@@ -33,3 +33,5 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 Author: Akhil Chhibber
 
 LinkedIn: https://www.linkedin.com/in/akhilchhibber/
+
+Medium Blogs: https://medium.com/@akhil.chibber
